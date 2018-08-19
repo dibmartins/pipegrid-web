@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
+    <b-alert show>Default Alert</b-alert>
     <h2>Essential Links</h2>
     <ul>
       <li>
